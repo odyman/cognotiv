@@ -4,7 +4,7 @@ Simple Cognotiv company website built with Nuxt.js and Tailwind CSS.
 
 ## Demo URL
 
-[https://cognotiv.com](https://cognotiv.com)
+[https://cognotiv.com](https://cognotiv.vercel.app/)
 
 
 ## Features
@@ -37,7 +37,7 @@ brew install node
 2. Clone the repo:
 
 ```
-git clone https://github.com/cognotiv.git
+git clone https://github.com/odyman/cognotiv.git
 ```
 
 3. Open the project folder:
@@ -84,4 +84,4 @@ yarn generate
 
 ### License
 
-[MIT](https://github.com/nuxtjs-tailwindcss-portfolio/blob/main/LICENSE)
+MIT
